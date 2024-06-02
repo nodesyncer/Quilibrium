@@ -9,7 +9,7 @@ Quilibrium 是一种去中心化的互联网层协议，在不牺牲隐私或可
 ### 1、下载 Quilibrium 节点一键部署脚本
 
 ```bash
-wget -O initia.sh https://raw.githubusercontent.com/nodesyncer/Quilibrium/main/quil.sh && chmod +x quil.sh && ./quil.sh
+wget -O quil.sh https://raw.githubusercontent.com/nodesyncer/Quilibrium/main/quil.sh && chmod +x quil.sh && ./quil.sh
 ```
 
 ### 2、输入选项 1，部署节点
