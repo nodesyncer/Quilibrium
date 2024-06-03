@@ -224,7 +224,7 @@ EOF
 function main_menu() {
 	while true; do
 	    clear
-	    echo "===================Quilibrium Network一键部署脚本==================="
+	    echo "===================Quilibrium 一键部署脚本==================="
 	    echo "请选择要执行的操作:"
 	    echo "1. 部署节点 install_node"
 	    echo "2. 提取秘钥 backup_key"
